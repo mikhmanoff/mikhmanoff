@@ -1,12 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salidzhan!
 ==================================================================================================================================
 
-Beginning ML developer. I am developing in the field of backend development and artificial intelligence (AI) and machine learning (ML). I aim to develop my skills in Python C++ programming, with a special focus on machine learning algorithms and AI applications.
 
-* 🌍  I'm based in Voronezh
+* 🌍  I'm based in Tashkent
 * ✉️  You can contact me at [salidjanm.ov@gmail.com](mailto:salidjanm.ov@gmail.com)
-* 🧠  I'm learning Machine learning
-* 🤝  I'm open to collaborating on interesting projects in AI.
 
 ### Skills
 
